@@ -1,12 +1,20 @@
 # Agent Library
 
-Agent Library is a collection of small specialized AI agents developed as part of the Helios OS ecosystem.
+Agent Library is a collection of small specialized AI agents developed as part of the **Helios OS ecosystem**.
 
 The goal is simple:
 
 **One problem → one agent.**
 
 Instead of building large complex systems, Helios OS explores small agents that solve specific operational tasks.
+
+---
+
+## Agents
+
+Operational agents are located in the `/agents` directory.
+
+Each agent focuses on a clear operational task.
 
 ---
 
@@ -20,7 +28,7 @@ Examples include:
 - extracting structured information  
 - automating repetitive workflows  
 - interpreting business data  
-- generating structured knowledge
+- generating structured knowledge  
 
 Small agents can be combined to build larger automated systems.
 
@@ -46,12 +54,12 @@ Automate repetitive tasks in business processes.
 
 ## Role within Helios OS
 
-Agent Library is one of the key components of **Helios OS**.
+Agent Library is one of the core components of **Helios OS**.
 
 Helios OS explores how AI agents and structured knowledge can help businesses remain visible and functional in the AI-driven internet.
 
 ---
 
 Maintained by  
-Helios Digitech
+Helios Digitech  
 https://heliosdigitech.com
